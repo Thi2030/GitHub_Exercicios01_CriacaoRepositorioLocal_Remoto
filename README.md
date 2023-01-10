@@ -28,3 +28,5 @@ Conteudo Aprendido.
 10º criando, commitando e fazendo push de um html
 
 11º teclas de atalho.
+
+12º Alterando Remotamente (on-Line - GitHub Site) ESTA LINHA DE TEXTO :)
